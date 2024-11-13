@@ -65,15 +65,16 @@ The KubeRay repository only contains documentation related to the development an
 
 ## Talks
 
-1. [Supercharge Your AI Platform with KubeRay](https://youtu.be/DgfJR6wR4BQ?si=QuK3j7VEkteSwglA) Anyscale + Google (November 8, 2023)
-2. [Sailing Ray Workloads with KubeRay and Kueue in Kubernetes](https://www.youtube.com/watch?v=Q-sQLDMeJ8M) Volcano + DaoCloud (October 17, 2023)
-3. [Serving Large Language Models with KubeRay on TPUs](https://raysummit.anyscale.com/agenda/sessions/135) Google (September 19, 2023)
-4. [KubeRay: A Ray Cluster Management Solution on Kubernetes](https://raysummit.anyscale.com/agenda/sessions/184) Anyscale (September 18, 2023)
-5. [The Different Shades of using KubeRay with Kubernetes](https://raysummit.anyscale.com/agenda/sessions/140) Microsoft (September 18, 2023)
-6. [On-Demand Ray Clusters in ML Workflows via KubeRay & Sematic](https://raysummit.anyscale.com/agenda/sessions/164) Sematic (September 18, 2023)
-7. [KubeRay - A Kubernetes Ray Clustering Solution](https://www.youtube.com/watch?v=tMEwSAeC1jo) Microsoft (February 8, 2023)
-8. [KubeRay x Flyte Integration](https://www.youtube.com/watch?v=RmGynLp5u4Q) Flyte (August 24, 2022)
-9. [Operationalizing Ray Serve on Kubernetes](https://youtu.be/NekkpRrcAWg?si=bpX7z64AuZiM_iUv) Anyscale (August 24, 2022)
+1. [Advanced Model Serving Techniques with Ray on Kubernetes](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/) AnyScale + Google (November 13, 2024)
+2. [Supercharge Your AI Platform with KubeRay](https://youtu.be/DgfJR6wR4BQ?si=QuK3j7VEkteSwglA) Anyscale + Google (November 8, 2023)
+3. [Sailing Ray Workloads with KubeRay and Kueue in Kubernetes](https://www.youtube.com/watch?v=Q-sQLDMeJ8M) Volcano + DaoCloud (October 17, 2023)
+4. [Serving Large Language Models with KubeRay on TPUs](https://raysummit.anyscale.com/agenda/sessions/135) Google (September 19, 2023)
+5. [KubeRay: A Ray Cluster Management Solution on Kubernetes](https://raysummit.anyscale.com/agenda/sessions/184) Anyscale (September 18, 2023)
+6. [The Different Shades of using KubeRay with Kubernetes](https://raysummit.anyscale.com/agenda/sessions/140) Microsoft (September 18, 2023)
+7. [On-Demand Ray Clusters in ML Workflows via KubeRay & Sematic](https://raysummit.anyscale.com/agenda/sessions/164) Sematic (September 18, 2023)
+8. [KubeRay - A Kubernetes Ray Clustering Solution](https://www.youtube.com/watch?v=tMEwSAeC1jo) Microsoft (February 8, 2023)
+9. [KubeRay x Flyte Integration](https://www.youtube.com/watch?v=RmGynLp5u4Q) Flyte (August 24, 2022)
+10. [Operationalizing Ray Serve on Kubernetes](https://youtu.be/NekkpRrcAWg?si=bpX7z64AuZiM_iUv) Anyscale (August 24, 2022)
 
 ## Helm Charts
 
